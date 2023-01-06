@@ -1,0 +1,1 @@
+function smallNumberSum(a: Number, b)
